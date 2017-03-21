@@ -1,0 +1,13 @@
+Voici les regles :
+
+	-Choisissez le numeros des joueurs
+		
+	-Cliquez sur la ligne de votre choix	
+
+	-Prenez autant de batons que vous voulez sur une seule ligne
+
+        -Vous avez le droit de prendre autant de bâton qu'il y en à sur la ligne !
+	
+	-cliquez sur confirmer le tour
+
+	-Celui qui prend le dernier bâton a perdu
